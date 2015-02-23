@@ -1,0 +1,54 @@
+body {
+  width:960px;
+  margin:0 auto;
+  /* background-color: green; */
+}
+
+header {
+
+
+}
+
+.container {
+  margin: 20px;
+  padding: 0px;
+  background-color: white;
+
+}
+
+
+.menu {
+  width: 550px;
+  height: 400px;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+  /* background-color: white; */
+
+}
+
+.order {
+  width: 200px;
+  /* height: 400px; */
+  margin: 20px;
+  padding: 20px;
+  float: right;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  /* background-color: white; */
+}
+
+ul{
+  list-style-type: none;
+  padding: 0px;
+}
+
+li{
+  margin-bottom: 20px;
+  line-height: 25px;
+}
+
+h3 {
+  color: red;
+}
